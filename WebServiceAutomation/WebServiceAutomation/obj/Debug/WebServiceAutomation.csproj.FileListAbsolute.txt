@@ -1,0 +1,50 @@
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\WebServiceAutomation.dll
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\WebServiceAutomation.pdb
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\Json.Net.dll
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.csproj.AssemblyReference.cache
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.csproj.CoreCompileInputs.cache
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.csproj.CopyComplete
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.dll
+C:\Users\ankurbansal02\source\repos\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.pdb
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\WebServiceAutomation.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\WebServiceAutomation.pdb
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\Json.Net.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.csproj.CoreCompileInputs.cache
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.csproj.CopyComplete
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.pdb
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\WebServiceAutomation.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\WebServiceAutomation.pdb
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\Json.Net.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.csproj.AssemblyReference.cache
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.csproj.CoreCompileInputs.cache
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.csproj.CopyComplete
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.dll
+C:\Users\ankurbansal02\OneDrive - Nagarro\Desktop\World CUP API 1\WebServiceAutomation\WebServiceAutomation\obj\Debug\WebServiceAutomation.pdb
