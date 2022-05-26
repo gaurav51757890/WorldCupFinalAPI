@@ -113,8 +113,6 @@ namespace RestSharpAutomation.RestPutEndPoint
             var dotnetxmlderializer = new RestSharp.Deserializers.DotNetXmlDeserializer();
             var laptop = dotnetxmlderializer.Deserialize<Laptop>(response1);
 
-
-
             Assert.AreEqual(200, (int)response1.StatusCode);
 
             response1 = restClientHelper.PerformGetRequest<Laptop>(getUrl + id, headers);
