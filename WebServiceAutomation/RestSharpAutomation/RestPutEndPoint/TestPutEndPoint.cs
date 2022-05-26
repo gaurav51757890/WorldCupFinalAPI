@@ -106,6 +106,8 @@ namespace RestSharpAutomation.RestPutEndPoint
                                "</Laptop>";
 
             IRestClient restClient = new RestClient();
+
+
             IRestRequest restRequest = new RestRequest(putUrl);
             restRequest.AddHeaders(headers);
             restRequest.AddParameter("XmlData",xmlData, ParameterType.RequestBody);
